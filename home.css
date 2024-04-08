@@ -1,0 +1,44 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+header {
+    background: #333;
+    color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0.4, 0, 0.6); 
+}
+nav ul {
+   text-align: center;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.container img{
+    position: relative;
+    margin-left: 700px;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
